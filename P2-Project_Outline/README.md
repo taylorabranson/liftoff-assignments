@@ -18,8 +18,8 @@
         It is a tool that is designed specifically for finding and rating brewpubs, so whoever uses it will be able to determine if they want to visit a pub based on previous user’s experiences.
 ### Features
     Users
-            Users will be able to create accounts and log in to the application.
-    Users will have a profile page.
+        Users will be able to create accounts and log in to the application.
+        Users will have a profile page.
     
     Search
         Users will be able to search by name, establishment, rating, and location.
@@ -52,7 +52,7 @@
     MySQL
     Hibernate
     Thymeleaf templates
-    Gradle
+    Gradleg
     Bootstrap (HTML, CSS, JavaScript)
     Spring Security
     Google Maps API
