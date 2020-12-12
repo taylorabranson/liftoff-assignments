@@ -11,4 +11,4 @@ For this assignment you will need to upload your resume and provide links to you
 ### LinkedIn
 [Taylor Branson's LinkedIn](https://www.linkedin.com/in/taylor-branson/)
 ### Resume
-[Taylor Branson's Resume](C1-Online_Profiles/Taylor-Branson-Resume.pdf)
+[Taylor Branson's Resume](Taylor-Branson-Resume.pdf)
